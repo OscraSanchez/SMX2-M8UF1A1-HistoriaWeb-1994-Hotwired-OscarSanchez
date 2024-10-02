@@ -1,20 +1,22 @@
 # HotWired: Primera Publicidad Digital
 
-## Introducción
-HotWired fue lanzado el 27 de octubre de 1994 como una extensión digital de la revista impresa Wired. Fue pionero en la publicación de contenido original en línea y en la implementación de publicidad en internet[^1].
-
-<img src="https://github.com/OscraSanchez/SMX2-M8UF1A1-HistoriaWeb-1994-Hotwired-OscarSanchez/blob/main/portada.png" width="300" height="150">
-
 <!-- TABLA DE CONTENIDOS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
   <ol>
+    <li><a href="#introducción">Historia</a></li>
     <li><a href="#historia">Historia</a></li>
-    <li><a href="#primer anuncio en internet">Primer Anuncio en Internet</a></li>
-    <li><a href="#impacto de hotwired">Impacto de HotWired</a></li>
-    <li><a href="#enlace de internet">Enlace de Internet</a></li>
+    <li><a href="#primer_anuncio_en_internet">Primer Anuncio en Internet</a></li>
+    <li><a href="#impacto_de_hotwired">Impacto de HotWired</a></li>
+    <li><a href="#enlace_de_internet">Enlace de Internet</a></li>
   </ol>
 </details>
+
+---------
+## Introducción
+HotWired fue lanzado el 27 de octubre de 1994 como una extensión digital de la revista impresa Wired. Fue pionero en la publicación de contenido original en línea y en la implementación de publicidad en internet[^1].
+
+<img src="https://github.com/OscraSanchez/SMX2-M8UF1A1-HistoriaWeb-1994-Hotwired-OscarSanchez/blob/main/portada.png" width="300" height="150">
 
 
 ## Historia
