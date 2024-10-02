@@ -12,6 +12,7 @@ HotWired fue creado por Andrew Anker, Vicepresidente y CTO de Wired en ese momen
 El primer banner publicitario en internet fue publicado en HotWired. AT&T fue una de las primeras compañías en aprovechar esta nueva forma de publicidad con su campaña "You Will"[^3].
 
 !Primer Banner Publicitario
+<img src="https://github.com/OscraSanchez/SMX2-M8UF1A1-HistoriaWeb-1994-Hotwired-OscarSanchez/blob/main/Primer%20banner.webp" width="150" height="300">
 
 ## Impacto de HotWired
 HotWired no solo revolucionó la forma en que consumimos contenido, sino que también estableció las bases para la publicidad digital moderna. Su legado perdura en la manera en que interactuamos con los medios en línea hoy en día[^2].
