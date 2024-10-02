@@ -5,6 +5,34 @@ HotWired fue lanzado el 27 de octubre de 1994 como una extensión digital de la 
 
 <img src="https://github.com/OscraSanchez/SMX2-M8UF1A1-HistoriaWeb-1994-Hotwired-OscarSanchez/blob/main/portada.png" width="300" height="150">
 
+<!-- TABLA DE CONTENIDOS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
+  <ol>
+    <li>
+      <a href="#acerca-del-proyecto">Acerca del proyecto</a>
+      <ul>
+        <li><a href="#tecnologías">Tecnologías</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#empecemos">Empecemos</a>
+      <ul>
+        <li><a href="#pre-requisitios">Pre requisitos</a></li>
+        <li><a href="#instalación">Instalación</a></li>
+	<li><a href="#Despliegue-de-la-máquina-virtual">Despliegue de la máquina virtual</a></li>
+      </ul>
+    </li>
+    <li><a href="#uso">Uso</a></li>
+    <li><a href="#mapa-de-trabajo">Mapa de desarrollo</a></li>
+    <li><a href="#contribuciones">Contribuciones</a></li>
+    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#agradecimientos">Agradecimientos</a></li>
+  </ol>
+</details>
+
+
 ## Historia
 HotWired fue creado por Andrew Anker, Vicepresidente y CTO de Wired en ese momento. La plataforma ofrecía contenido exclusivo que atrajo a una audiencia global, marcando un hito en la historia de internet[^2].
 
