@@ -12,7 +12,7 @@ El primer banner publicitario en internet fue publicado en HotWired. AT&T fue un
 !Primer Banner Publicitario
 
 ## Impacto de HotWired
-HotWired no solo revolucionó la forma en que consumimos contenido, sino que también estableció las bases para la publicidad digital moderna. Su legado perdura en la manera en que interactuamos con los medios en línea hoy en día[^2^][2].
+HotWired no solo revolucionó la forma en que consumimos contenido, sino que también estableció las bases para la publicidad digital moderna. Su legado perdura en la manera en que interactuamos con los medios en línea hoy en día[^2].
 
 ## Enlaces de Interés
 - [Historia de HotWired en Wikipedia](https://en.wikipedia.org/wiki/HotWired)
