@@ -4,11 +4,11 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
   <ol>
-    <li><a href="#introducción">Historia</a></li>
+    <li><a href="#introducción">Introducción</a></li>
     <li><a href="#historia">Historia</a></li>
-    <li><a href="#primer_anuncio_en_internet">Primer Anuncio en Internet</a></li>
-    <li><a href="#impacto_de_hotwired">Impacto de HotWired</a></li>
-    <li><a href="#enlace_de_internet">Enlace de Internet</a></li>
+    <li><a href="#primer-anuncio-en-internet">Primer Anuncio en Internet</a></li>
+    <li><a href="#impacto-de-hotwired">Impacto de HotWired</a></li>
+    <li><a href="#enlace-de-internet">Enlace de Internet</a></li>
   </ol>
 </details>
 
