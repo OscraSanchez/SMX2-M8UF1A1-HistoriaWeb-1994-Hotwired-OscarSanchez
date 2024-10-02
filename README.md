@@ -1,17 +1,5 @@
 # HotWired: Primera Publicidad Digital
 
-<!-- TABLA DE CONTENIDOS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
-  <ol>
-    <li><a href="#introducción">Introducción</a></li>
-    <li><a href="#historia">Historia</a></li>
-    <li><a href="#primer-anuncio-en-internet">Primer Anuncio en Internet</a></li>
-    <li><a href="#impacto-de-hotwired">Impacto de HotWired</a></li>
-    <li><a href="#enlace-de-interés">Enlace de Interés</a></li>
-  </ol>
-</details>
-
 ---------
 ## Introducción
 HotWired fue lanzado el 27 de octubre de 1994 como una extensión digital de la revista impresa Wired. Fue pionero en la publicación de contenido original en línea y en la implementación de publicidad en internet[^1].
@@ -32,7 +20,7 @@ El primer banner publicitario en internet fue publicado en HotWired. AT&T fue un
 ## Impacto de HotWired
 HotWired no solo revolucionó la forma en que consumimos contenido, sino que también estableció las bases para la publicidad digital moderna y las bases en la manera en que interactuamos con los medios digitales hoy en día[^2].
 
-## Enlaces de Interés
+## :link: Enlaces de Interés
 - [Historia de HotWired en Wikipedia](https://en.wikipedia.org/wiki/HotWired)
 - [Artículo sobre el primer anuncio en internet](https://www.nobbot.com/primer-anuncio-que-se-publico-en-internet-en-1994/)
 
