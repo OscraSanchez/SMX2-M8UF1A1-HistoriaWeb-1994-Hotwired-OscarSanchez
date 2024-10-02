@@ -8,7 +8,7 @@
     <li><a href="#historia">Historia</a></li>
     <li><a href="#primer-anuncio-en-internet">Primer Anuncio en Internet</a></li>
     <li><a href="#impacto-de-hotwired">Impacto de HotWired</a></li>
-    <li><a href="#:link:-enlace-de-interés">Enlace de Interés</a></li>
+    <li><a href="#:link:enlace-de-interés">Enlace de Interés</a></li>
   </ol>
 </details>
 
