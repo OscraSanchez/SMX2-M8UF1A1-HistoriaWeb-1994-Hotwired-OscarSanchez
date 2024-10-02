@@ -9,26 +9,10 @@ HotWired fue lanzado el 27 de octubre de 1994 como una extensión digital de la 
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
   <ol>
-    <li>
-      <a href="#acerca-del-proyecto">Acerca del proyecto</a>
-      <ul>
-        <li><a href="#tecnologías">Tecnologías</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#empecemos">Empecemos</a>
-      <ul>
-        <li><a href="#pre-requisitios">Pre requisitos</a></li>
-        <li><a href="#instalación">Instalación</a></li>
-	<li><a href="#Despliegue-de-la-máquina-virtual">Despliegue de la máquina virtual</a></li>
-      </ul>
-    </li>
-    <li><a href="#uso">Uso</a></li>
-    <li><a href="#mapa-de-trabajo">Mapa de desarrollo</a></li>
-    <li><a href="#contribuciones">Contribuciones</a></li>
-    <li><a href="#licencia">Licencia</a></li>
-    <li><a href="#contacto">Contacto</a></li>
-    <li><a href="#agradecimientos">Agradecimientos</a></li>
+    <li><a href="#historia">Historia</a></li>
+    <li><a href="#primer anuncio en internet">Primer Anuncio en Internet</a></li>
+    <li><a href="#impacto de hotwired">Impacto de HotWired</a></li>
+    <li><a href="#enlace de internet">Enlace de Internet</a></li>
   </ol>
 </details>
 
