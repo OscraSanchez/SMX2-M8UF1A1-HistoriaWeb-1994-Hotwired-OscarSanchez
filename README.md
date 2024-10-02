@@ -18,7 +18,7 @@ HotWired no solo revolucionó la forma en que consumimos contenido, sino que tam
 - [Historia de HotWired en Wikipedia](https://en.wikipedia.org/wiki/HotWired)
 - [Artículo sobre el primer anuncio en internet](https://www.nobbot.com/primer-anuncio-que-se-publico-en-internet-en-1994/)
 
-## Referencias
+
 [^1]: [Nobbot](https://www.nobbot.com/primer-anuncio-que-se-publico-en-internet-en-1994/)
 [^2]: [Wikipedia](https://en.wikipedia.org/wiki/HotWired)
 [^3]: [El País](https://elpais.com/tecnologia/2009/10/26/actualidad/1256551262_850215.html)
